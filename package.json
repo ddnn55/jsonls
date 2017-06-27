@@ -4,6 +4,10 @@
   "bin": {
     "jsonls": "./jsonls.js"
   },
+  "repository": {
+  	"type" : "git",
+  	"url" : "https://github.com/gimlids/jsonls"
+  },
   "dependencies": {
     "dev-null": "^0.1.1"
   },
