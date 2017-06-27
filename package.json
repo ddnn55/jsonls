@@ -1,0 +1,10 @@
+{
+  "name": "jsonls",
+  "bin": {
+    "jsonls": "./jsonls.js"
+  },
+  "dependencies": {
+    "dev-null": "^0.1.1"
+  },
+  "license": "MIT"
+}
