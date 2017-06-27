@@ -1,5 +1,6 @@
 {
   "name": "jsonls",
+  "version": "0.0.3",
   "bin": {
     "jsonls": "./jsonls.js"
   },
